@@ -1,6 +1,6 @@
 a=int(input("Enter Elements"))
 list=[]
-while(n!=0)
+while(n!=0):
 item=int(input("Enter Element"))
 
 list.append(item)
