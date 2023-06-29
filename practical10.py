@@ -26,3 +26,4 @@ n = [12,23,26,21,66,58,96,99]
 selsort(n)
 
 print("Sorted array : ",n)
+
