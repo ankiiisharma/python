@@ -19,3 +19,5 @@ b=int(input("Enter second number:"))
 GCD=gcd(a,b)
 
 print("GCD of ",a," and ",b,"is:",GCD)
+
+

@@ -1,5 +1,8 @@
-# Practiccal : 2 :
+# Practical : 2 :
 # to perform matrix multiplication!
+# Name : Ankit Sharma
+# Roll No. : 2100300100031
+
 A = [[3, 2, 2],
     [4, 1, 6],
     [7, 6, 4]]
@@ -19,4 +22,5 @@ for i in range(len(A)):
  
 for r in result:
     print(r)
-    
+
+
